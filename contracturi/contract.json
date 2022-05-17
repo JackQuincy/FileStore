@@ -1,0 +1,9 @@
+
+
+{
+    "name": "Testing Contract Uri",
+    "description": "Testing Contract Uri",
+    "image": "https://openseauserdata.com/files/dd0884c534bb474d5db4b170ee24868b.svg",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xBa39860c1a65770679ec137f6c15A87f48D1bAa4"
+  }
